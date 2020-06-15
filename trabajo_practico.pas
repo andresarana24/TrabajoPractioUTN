@@ -1,8 +1,6 @@
-// TRABAJO PRÁCTICO 1.
+// TRABAJO PRÁCTICO 2.
 // Fecha: .
-// Integrantes: Agustín Ricardo.
-//              Andrés Arana Castillo.
-//              Santiago Sosa.
+// Integrantes: Andrés Arana Castillo.
 // Comisión: 114.
 
 program tp1;
